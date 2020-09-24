@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fd92fbb-4c53-4451-9473-c74cb7873bca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="RemoteServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.run">
     <configuration name="run" type="PythonConfigurationType" factoryName="Python">
@@ -117,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600943215520</updated>
-      <workItem from="1600943220307" duration="6562000" />
+      <workItem from="1600943220307" duration="7592000" />
     </task>
     <servers />
   </component>
@@ -149,28 +154,28 @@
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
     <state x="2394" y="14" key="EnvironmentVariablesDialog/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600943544997" />
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1600953458304">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1600954999690">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600953458304" />
-    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1600953458303">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600954999690" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1600954999689">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.center/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600953458303" />
-    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1600953458301">
+    <state width="1878" height="297" key="GridCell.Tab.0.center/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600954999689" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1600954999687">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.left/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600953458301" />
-    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1600953458304">
+    <state width="1878" height="297" key="GridCell.Tab.0.left/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600954999687" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1600954999690">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.right/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600953458304" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600954999690" />
     <state x="2333" y="75" key="com.intellij.ide.util.TipDialog" timestamp="1600943223339">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
     <state x="2333" y="75" key="com.intellij.ide.util.TipDialog/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600943223339" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flask_Chat$Flask.coverage" NAME="run Coverage Results" MODIFIED="1600953441267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flask_Chat$Flask.coverage" NAME="run Coverage Results" MODIFIED="1600954999673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
