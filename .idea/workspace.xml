@@ -124,7 +124,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600943215520</updated>
       <workItem from="1600943220307" duration="10288000" />
-      <workItem from="1601199221475" duration="6983000" />
+      <workItem from="1601199221475" duration="8328000" />
+      <workItem from="1601213869592" duration="480000" />
     </task>
     <servers />
   </component>
@@ -180,10 +181,11 @@
     <state width="1878" height="312" key="GridCell.Tab.0.right/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601209623036" />
     <state width="1878" height="312" key="GridCell.Tab.0.right/1680.-309.1920.1080/3600.-309.1920.1080/0.0.1680.1050@1680.-309.1920.1080" timestamp="1601202464461" />
     <state width="1878" height="297" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1600984268118" />
-    <state x="2333" y="75" key="com.intellij.ide.util.TipDialog" timestamp="1600943223339">
-      <screen x="1680" y="-286" width="1920" height="1057" />
+    <state x="571" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1601213882214">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="2333" y="75" key="com.intellij.ide.util.TipDialog/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600943223339" />
+    <state x="571" y="374" key="com.intellij.ide.util.TipDialog/3600.-286.1920.1057/1680.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601213882214" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Flask_Chat$run.coverage" NAME="run Coverage Results" MODIFIED="1601209338147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
