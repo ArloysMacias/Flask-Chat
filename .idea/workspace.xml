@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9fd92fbb-4c53-4451-9473-c74cb7873bca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run">
+  <component name="RunManager" selected="Flask server.Flask">
     <configuration name="run" type="PythonConfigurationType" factoryName="Python">
       <module name="Flask-Chat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600943215520</updated>
       <workItem from="1600943220307" duration="10288000" />
-      <workItem from="1601199221475" duration="5858000" />
+      <workItem from="1601199221475" duration="6652000" />
     </task>
     <servers />
   </component>
@@ -156,28 +158,28 @@
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
     <state x="2394" y="14" key="EnvironmentVariablesDialog/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600943544997" />
-    <state width="1878" height="312" key="GridCell.Tab.0.bottom" timestamp="1601206595759">
+    <state width="1878" height="312" key="GridCell.Tab.0.bottom" timestamp="1601209623036">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="312" key="GridCell.Tab.0.bottom/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601206595759" />
+    <state width="1878" height="312" key="GridCell.Tab.0.bottom/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601209623036" />
     <state width="1878" height="312" key="GridCell.Tab.0.bottom/1680.-309.1920.1080/3600.-309.1920.1080/0.0.1680.1050@1680.-309.1920.1080" timestamp="1601202464462" />
     <state width="1878" height="297" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1600984268119" />
-    <state width="1878" height="312" key="GridCell.Tab.0.center" timestamp="1601206595758">
+    <state width="1878" height="312" key="GridCell.Tab.0.center" timestamp="1601209623035">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="312" key="GridCell.Tab.0.center/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601206595758" />
+    <state width="1878" height="312" key="GridCell.Tab.0.center/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601209623035" />
     <state width="1878" height="312" key="GridCell.Tab.0.center/1680.-309.1920.1080/3600.-309.1920.1080/0.0.1680.1050@1680.-309.1920.1080" timestamp="1601202464460" />
     <state width="1878" height="297" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1600984268117" />
-    <state width="1878" height="312" key="GridCell.Tab.0.left" timestamp="1601206595758">
+    <state width="1878" height="312" key="GridCell.Tab.0.left" timestamp="1601209623035">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="312" key="GridCell.Tab.0.left/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601206595758" />
+    <state width="1878" height="312" key="GridCell.Tab.0.left/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601209623035" />
     <state width="1878" height="312" key="GridCell.Tab.0.left/1680.-309.1920.1080/3600.-309.1920.1080/0.0.1680.1050@1680.-309.1920.1080" timestamp="1601202464459" />
     <state width="1878" height="297" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1600984268116" />
-    <state width="1878" height="312" key="GridCell.Tab.0.right" timestamp="1601206595759">
+    <state width="1878" height="312" key="GridCell.Tab.0.right" timestamp="1601209623036">
       <screen x="1680" y="-286" width="1920" height="1057" />
     </state>
-    <state width="1878" height="312" key="GridCell.Tab.0.right/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601206595759" />
+    <state width="1878" height="312" key="GridCell.Tab.0.right/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1601209623036" />
     <state width="1878" height="312" key="GridCell.Tab.0.right/1680.-309.1920.1080/3600.-309.1920.1080/0.0.1680.1050@1680.-309.1920.1080" timestamp="1601202464461" />
     <state width="1878" height="297" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1600984268118" />
     <state x="2333" y="75" key="com.intellij.ide.util.TipDialog" timestamp="1600943223339">
@@ -186,7 +188,7 @@
     <state x="2333" y="75" key="com.intellij.ide.util.TipDialog/1680.-286.1920.1057/3600.-286.1920.1057/0.23.1680.1027@1680.-286.1920.1057" timestamp="1600943223339" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flask_Chat$run.coverage" NAME="run Coverage Results" MODIFIED="1601206510838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Flask_Chat$Flask.coverage" NAME="run Coverage Results" MODIFIED="1600957314847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flask_Chat$run.coverage" NAME="run Coverage Results" MODIFIED="1601209338147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flask_Chat$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1601209485065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
